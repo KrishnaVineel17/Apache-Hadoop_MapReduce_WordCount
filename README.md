@@ -12,5 +12,7 @@ MapReduce programming offers several benefits to help you gain valuable insights
     3.**Speed**. With parallel processing and minimal data movement, Hadoop offers fast processing of massive amounts of data.
     4.**Simple**. Developers can write code in a choice of languages, including Java, C++ and Python.
     
+**WordCount** is a simple application that counts the number of occurrences of each word in a given input set.
+    
 Main Objective:
 This assignment focuses on how to use Apache Hadoop MapReduce on Word Count Application. Here we give a .txt file as an input to the mapreduce program and get the output of **&lt;key, value>** pairs of frequencies for each word preset in the text file. 
