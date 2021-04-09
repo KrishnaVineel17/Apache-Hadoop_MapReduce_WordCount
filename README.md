@@ -16,3 +16,5 @@ MapReduce programming offers several benefits to help you gain valuable insights
     
 Main Objective:
 This assignment focuses on how to use Apache Hadoop MapReduce on Word Count Application. Here we give a .txt file as an input to the mapreduce program and get the output of **&lt;key, value>** pairs of frequencies for each word preset in the text file. 
+
+Source for all the input text files is : https://www.gutenberg.org/
